@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(23, 28, 94);
+    font-family: 'Roboto', sans-serif;    
+}
+
+h1
+{
+
+ font-size: 35px; 
+ color: white;
+ text-align: center;
+}
